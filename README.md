@@ -5,7 +5,7 @@ This is currently work in progress. Please use it with caution.
 Please, report issues with documentation and/or lab in the issues section of this repo.
 
 * [Red Hat Product Demo System](https://rhpds.redhat.com)
-* [Infrastructure Migration Lab Instructions](docs/00-redhat_solutions-insfrastructure_migration_lab.adoc)
+* [Infrastructure Migration Lab v1 Instructions](docs/00-redhat_solutions-insfrastructure_migration_v1-lab.adoc)
 
 ## Releases
 ```
